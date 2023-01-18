@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PromedioNotas_E1</string>
+    <string name="Alumno">Estatus del Alumno</string>
+    <string name="PrimerMateria">Lenguaje</string>
+    <string name="SegundaMAteria">Matematicas</string>
+    <string name="TerceraMateria">Ciencias</string>
+    <string name="CuartaMateria">Sociales</string>
+    <string name="Button">CALCULAR</string>
+</resources>
